@@ -131,7 +131,5 @@ THE REALITY KARACHI'S URBAN CHALLENGES ARE ESCALATINGd **Daily Reality System Ga
 6. Demo/use-case scenario
 7. Future scalability plan 
 
-# “LET'S COMMIT TO BUILDING A SUSTAINABLE FUTURE NOW!” 
-
-# THANK YOU 
+# Good Luck 
 

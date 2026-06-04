@@ -4,7 +4,7 @@
 ## ZABEFEST – HACKATHON’26
 # Hackathon Guidelines
 
-#What to Bring
+# What to Bring
 Participants are expected to bring the following items:
 - Personal laptops with chargers.
 - Accessories such as a mouse, headphones, or any other peripherals required for

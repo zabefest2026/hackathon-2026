@@ -2,13 +2,11 @@
 
 THE REALITY KARACHI'S URBAN CHALLENGES ARE ESCALATING **Daily Reality System Gap Consequence Wasted hours Water shortages No real-time tracking waiting** ag ~~ss~~ **Broken roads & Manual, slow reporting Hazards multiply garbage** ra ~~fe |~~ **Delayed emergency Unsafe public areas Citizen trust erodes response** ~~—~~ 
 
-## ONE LINE. ONE MISSION. 
-
 **Build a scalable technology solution that enables citizens to report, monitor, verify, predict, manage, or resolve urban civic problems in real time.** Platform: Web OR Mobile App Scope: One or multiple civic challenges 
 
 ## CHALLENGE REQUIREMENTS 
 
-## **Each team must implement at least THREE (3) components:** 
+**Each team must implement at least THREE (3) components:** 
 
 **Environmental Sustainability** 
 

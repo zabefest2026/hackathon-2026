@@ -1,6 +1,6 @@
 ## ZABEFEST HACKATHON 2026 THEME REVEAL FIX KARACHI **Building a Better World for the Future** 
 
-THE REALITY KARACHI'S URBAN CHALLENGES ARE ESCALATING **Daily Reality System Gap Consequence Wasted hours Water shortages No real-time tracking waiting** ag ~~ss~~ **Broken roads & Manual, slow reporting Hazards multiply garbage** ra ~~fe |~~ **Delayed emergency Unsafe public areas Citizen trust erodes response** ~~—~~ 
+THE REALITY KARACHI'S URBAN CHALLENGES ARE ESCALATINGd **Daily Reality System Gap Consequence Wasted hours Water shortages No real-time tracking waiting** ag ~~ss~~ **Broken roads & Manual, slow reporting Hazards multiply garbage** ra ~~fe |~~ **Delayed emergency Unsafe public areas Citizen trust erodes response** ~~—~~ 
 
 **Build a scalable technology solution that enables citizens to report, monitor, verify, predict, manage, or resolve urban civic problems in real time.** Platform: Web OR Mobile App Scope: One or multiple civic challenges 
 
@@ -68,8 +68,6 @@ THE REALITY KARACHI'S URBAN CHALLENGES ARE ESCALATING **Daily Reality System Gap
 
 ## PROBLEM DOMAIN 
 
-      2. Public Safety 
-
 1. Civic Infrastructure 
 
    - Pothole reporting  and monitoring 
@@ -78,15 +76,16 @@ THE REALITY KARACHI'S URBAN CHALLENGES ARE ESCALATING **Daily Reality System Gap
 
    - Garbag e overflow manag ement 
 
-   - Sewerag e leakag e reporting 
+   - Sewerag e leakag e reporting
 
-      - Unsafe zone identification 
+2. Pubzlic Safety
+   - Unsafe zone identification
+   
+   - Harassment hotspot mapping 
 
-      - Harassment hotspot mapping 
-
-      - Emerg ency SOS systems 
-
-      - Disaster or emerg ency alerts 
+   - Emerg ency SOS systems
+     
+   - Disaster or emerg ency alerts 
 
 3. Utilities 
 
@@ -95,8 +94,6 @@ THE REALITY KARACHI'S URBAN CHALLENGES ARE ESCALATING **Daily Reality System Gap
    - Water tanker availability systems 
 
    - Water shortag e monitoring  or prediction 
-
-## PROBLEM DOMAIN 
 
 4. Transport 
 
@@ -115,18 +112,24 @@ THE REALITY KARACHI'S URBAN CHALLENGES ARE ESCALATING **Daily Reality System Gap
    - Heatwave alert systems 
 
 ## MANDATORY CONSTRAINTS **Real-world deployment limitations:** 
-
-1 2 3 4 5 6 
-
-Constraint Compatibility with low-end Android devices Poor or unstable internet connectivity Scalability for larg e user bases Data authenticity and reliability User privacy and security Prevention of fake or spam reports 
-
+- 1 Compatibility with low-end Android devices
+- 2 Poor or unstable internet connectivity
+- 3 Scalability for larg e user bases
+- 4 Data authenticity and reliability
+- 5 User privacy and security
+- 6 Prevention of fake or spam reports
+- 
 ## DELIVERABLES 
 
 # Each team must submit: 
 
-1. A working  prototype 1. Problem validation and research 1. Identification of targ et users 1. Technical architecture/desig n 1. Sustainability or operational model 
-
-1. Demo/use-case scenario : 1. Future scalability plan 
+1. A working  prototype
+2. Problem validation and research
+3. Identification of targ et users
+4. Technical architecture/design
+5. Sustainability or operational model
+6. Demo/use-case scenario
+7. Future scalability plan 
 
 # “LET'S COMMIT TO BUILDING A SUSTAINABLE FUTURE NOW!” 
 
